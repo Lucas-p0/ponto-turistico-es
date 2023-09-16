@@ -1,12 +1,15 @@
 .banner-all {
     display: flex;
     align-items: center;
+    margin: 0 10rem;
+
+
 }
 
-.banner-all h1 {}
+
 
 .banner-img {
-    margin: 29px 0px 0 -146px;
+    margin: 29px 0px 0 -170px;
     width: 3%;
 }
 

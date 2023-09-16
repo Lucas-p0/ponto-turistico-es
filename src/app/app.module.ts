@@ -7,14 +7,16 @@ import { HomeComponent } from './home/home.component';
 import { NavComponent } from './Nav/Nav.component';
 import { FooterComponent } from './Footer/Footer.component';
 import { SobreComponent } from './Sobre/Sobre.component';
+import { LocalizacaoComponent } from './Localizacao/Localizacao.component';
 
 @NgModule({
-  declarations: [				
+  declarations: [					
     AppComponent,
       HomeComponent,
       NavComponent,
       FooterComponent,
-      SobreComponent
+      SobreComponent,
+      LocalizacaoComponent
    ],
   imports: [
     BrowserModule,

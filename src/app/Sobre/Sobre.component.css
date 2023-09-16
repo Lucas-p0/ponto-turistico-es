@@ -1,0 +1,48 @@
+.sobre-all {
+    display: flex;
+    align-items: center;
+    margin: 0 10rem;
+
+
+}
+.sobre-all p{
+    margin: 0 ;
+    max-width: 70%;
+}
+
+
+
+.sobre-img {
+    margin: 29px 0px 0 -170px;
+    width: 3%;
+}
+
+@media (min-width: 390px) and (max-width: 768px) {
+
+    .sobre-all h2 {
+        margin: 1em;
+        text-align: center;
+    }
+    
+
+    .sobre-img {
+
+        margin: 0;
+    }
+
+    .figure-img {
+
+        max-width: 20rem;
+    }
+
+    .d-flex {
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {}

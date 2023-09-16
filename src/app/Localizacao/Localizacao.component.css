@@ -1,0 +1,7 @@
+.localizacao-all {
+    display: flex;
+    justify-content: center;
+    margin: 6% 10rem;
+    max-height: 100%;
+    align-items: center;
+}
